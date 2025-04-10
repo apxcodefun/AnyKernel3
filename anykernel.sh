@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=SingkoKernel by @nullptr03v2
+kernel.string=Mangoos Kurunul
 do.devicecheck=1
 device.name1=moonstone
 device.name2=sunstone
